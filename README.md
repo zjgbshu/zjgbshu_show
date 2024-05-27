@@ -39,7 +39,7 @@
 **项目展示**：
 
 
-![Image text](3.gulir/guli.png)
+![Image text](3.guli/guli.png)
 
 
 ## 用于位置预测的时空轨迹数据研究
