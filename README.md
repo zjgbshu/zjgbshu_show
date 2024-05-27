@@ -62,4 +62,4 @@
 
 **框架图**：
 
-![Image text](5.motif/all.png)
+![Image text](5.motif/论文配图-总架构图.png)
