@@ -27,6 +27,9 @@
 
 
 **项目展示**：
+![Image text](2.chatgpt/index.png)
+![Image text](2.chatgpt/audio.png)
+![Image text](2.chatgpt/chatbot.png)
 
 
 ## 谷粒商城
