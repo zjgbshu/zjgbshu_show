@@ -47,6 +47,8 @@
 
 
 **过程展示**：
+
+
 ![Image text](4.traj/deal1.png)
 ![Image text](4.traj/deal2.png)
 
@@ -59,4 +61,6 @@
 
 
 **框架图**：
+
+
 ![Image text](5.motif/all.png)
