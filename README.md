@@ -19,6 +19,8 @@
 ![Image text](1.geoserver/taxi.png)
 
 
+
+
 ## 基于ChatGPT的医生病案助手
 **项目信息**：参加学院竞赛的小项目，2023年2月——2023年6月，作者。
 
@@ -30,6 +32,9 @@
 ![Image text](2.chatgpt/index.png)
 ![Image text](2.chatgpt/audio.png)
 ![Image text](2.chatgpt/chatbot.png)
+
+
+
 
 
 ## 谷粒商城
@@ -45,6 +50,9 @@
 ![Image text](3.guli/guli.png)
 
 
+
+
+
 ## 用于位置预测的时空轨迹数据研究
 **项目信息**：论文研究，2023年3月——2023年12月，协助处理大量轨迹数据。
 
@@ -57,6 +65,10 @@
 
 ![Image text](4.traj/deal1.png)
 ![Image text](4.traj/deal2.png)
+
+
+
+
 
 
 ## 路网约束条件下基于图神经网络的轨迹预测方法研究与实现
