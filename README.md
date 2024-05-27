@@ -62,5 +62,4 @@
 
 **框架图**：
 
-
-![Image text](5.motif/all.png)
+![Image text](4.traj/deal2.png)
