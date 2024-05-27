@@ -10,7 +10,7 @@
 
 **项目展示**：
 ![Image text](1.geoserver/all.png)
-![Image text](1.geoserver/index.png)
+
 ![Image text](1.geoserver/track-1.png)
 ![Image text](1.geoserver/track-2.png)
 ![Image text](1.geoserver/track-3.png)
