@@ -80,4 +80,4 @@
 
 **框架图**：
 
-![Image text](5.motif/all.png)
+暂未发表，等待成稿
