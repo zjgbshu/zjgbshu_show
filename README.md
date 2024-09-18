@@ -3,9 +3,20 @@
 
 ## 商务投标系统
 **项目信息**：实习公司内部项目，2024年8月——2024年9月，重要成员（全栈工程师）。
-**简要介绍**：使用fastapi+vue+PostgreSQL架构开发了内部使用的商务投标系统，并完成了数据库设计、钉钉鉴权、钉钉OA工作流审批的研发内容，实现了包含权限设定、商务文件处理、与钉钉OA审批交互等功能。
-![Image text](6.bid_file/employee_list.png)
 
+
+**简要介绍**：使用fastapi+vue+PostgreSQL架构开发了内部使用的商务投标系统，并完成了数据库设计、钉钉鉴权、钉钉OA工作流审批的研发内容，实现了包含权限设定、商务文件处理、与钉钉OA审批交互等功能。
+
+
+**项目展示**：
+![Image text](6.bid_file/employee_list.png)
+![Image text](6.bid_file/employee_edit.png)
+![Image text](6.bid_file/employee_create.png)
+![Image text](6.bid_file/filelist.png)
+![Image text](6.bid_file/application.png)
+![Image text](6.bid_file/login.png)
+![Image text](6.bid_file/upload.png)
+![Image text](6.bid_file/gitea.png)
 
 
 ## 基于GeoServer的移动对象轨迹可视化系统
